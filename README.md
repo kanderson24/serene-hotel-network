@@ -5,4 +5,4 @@ The documentation outlines the step-by-step process of configuring the network i
 The documentation is located inside the files above, happy reading!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="1452" alt="Screenshot 2023-08-23 201804" src="https://i.ibb.co/drZyd0f/overviewhotel.png">
+<img width="1452" alt="Hotel Design" src="https://i.ibb.co/drZyd0f/overviewhotel.png">
